@@ -3,7 +3,12 @@ Hi, My name is **Mohamad Hammoud**
 
 ## 🙋‍♂️ I am...
 I'm a **full-stack developer for Mobile and Web** and a **Computer Science CSCI** graduate.
-<br>
+
+## 🌐 Languages
+I'm a native speaker of Araboc and can speack English flutently. In addition, I can speak French as a secondary language.
+
+## 🖥️ Programming Languages
+
 <!--
 **mkhammoud/mkhammoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
