@@ -1,7 +1,8 @@
 # Hello! Welcome to my profile! 👋
-Hi, My name is **Mohamad Hammoud** and I'm a **full-stack developer for Mobile and Web**.
+Hi, My name is **Mohamad Hammoud**  
 <br>
 ## 🙋‍♂️ I am...
+I'm a **full-stack developer for Mobile and Web** and a **Computer Science graduate**.
 <br>
 <!--
 **mkhammoud/mkhammoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
