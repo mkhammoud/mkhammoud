@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, My name is Mohamad Hammoud and I'm a full-stack developer for Mobile and Web and a Computer Science CSCI graduate.
 
-#🌐 Languages
+# 🌐 Languages
 I'm a native speaker of Arabic and can speak English fluently. In addition, I can speak French as a secondary language.
 
 
