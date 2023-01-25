@@ -1,4 +1,4 @@
-### Hello! Welcome to my profile! 👋
+# Hello! Welcome to my profile! 👋
 
 <!--
 **mkhammoud/mkhammoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
