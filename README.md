@@ -1,6 +1,6 @@
 # Hello! Welcome to my profile! 👋
 Hi, My name is **Mohamad Hammoud**  
-<br>
+
 ## 🙋‍♂️ I am...
 I'm a **full-stack developer for Mobile and Web** and a **Computer Science graduate**.
 <br>
