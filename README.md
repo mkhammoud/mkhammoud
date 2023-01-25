@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hello! Welcome to my profile! 👋<br>Hi, My name is Mohamad Hammoud<br><br>🙋‍♂️ I am...<br>I'm a full-stack developer for Mobile and Web and a Computer Science CSCI graduate.<br><br>🌐 Languages<br>I'm a native speaker of Arabic and can speak English fluently. In addition, I can speak French as a secondary language.
+Hi, My name is Mohamad Hammoud and I'm a full-stack developer for Mobile and Web and a Computer Science CSCI graduate.
+
+#🌐 Languages
+I'm a native speaker of Arabic and can speak English fluently. In addition, I can speak French as a secondary language.
 
 
 # 💻 Tech Stack:
